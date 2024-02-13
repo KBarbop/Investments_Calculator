@@ -11,6 +11,7 @@ function App() {
     expectedReturn:6,
     duration:10,
 });
+///
 const inputIsValid = userInput.duration >= 1;
 
 function handleChange(inputIdentifier, newValue){
